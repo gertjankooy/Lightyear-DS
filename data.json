@@ -649,7 +649,7 @@
       }
     }
   },
-  "App/Typography": {
+  "Typography": {
     "Large Title": {
       "value": {
         "fontFamily": "{base-font-family}",
@@ -805,7 +805,7 @@
       "description": "Regular paragraph"
     }
   },
-  "App/Light": {
+  "Light": {
     "Background": {
       "Default": {
         "value": "{Shade.0}",
@@ -1265,8 +1265,8 @@
   "$metadata": {
     "tokenSetOrder": [
       "Core",
-      "App/Typography",
-      "App/Light"
+      "Typography",
+      "Light"
     ]
   }
 }
