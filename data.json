@@ -632,7 +632,7 @@
     },
     "Gradient": {
       "Fade to Grey": {
-        "value": "linear-gradient(180deg, #FFFFFF 60%, #F2F2F2 100%)",
+        "value": "linear-gradient(180deg, rgba(255,255,255, 1) 60%, rgba (242,242,242, 1) 100%)",
         "type": "color"
       },
       "Grey Fade Out": {
